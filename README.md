@@ -1,7 +1,7 @@
-# Awesome Project Build with TypeORM
+# Login con TypeORM
 
-Steps to run this project:
+Pasos para correro el proyecto:
 
-1. Run `npm i` command
-2. Setup database settings inside `ormconfig.json` file
-3. Run `npm start` command
+1. Ejecute el comando `npm i`
+2. Configurar los ajustes de la base de datos dentro del archivo `ormconfig.json`
+3. Ejecute el comando `npm start`
